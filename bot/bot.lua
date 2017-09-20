@@ -50,7 +50,7 @@ if not tostring(SUDO):match('%d+') then
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[💢| Welcome My Dear
-💢| verbot V2
+💢| TH3CZAR V2
 💢| Developer source  @CHTH3CZAR 
 💢| Dev @TH3CZAR
 ]],
